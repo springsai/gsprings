@@ -1,0 +1,94 @@
+body{
+
+  text-align: center;
+}
+
+.colored-section{
+background-color: #262727;
+
+}
+h1{
+
+  color: #E5E8E8;
+}
+.gs-logo
+{
+  width: 12%;
+}
+.nav-item {
+  padding: 0 35px;
+}
+
+.title-image{
+
+  width: 95%;
+
+border-top-left-radius: 5%;
+
+}
+.big-heading {
+
+  font-size: 3.5rem;
+  line-height: 1.5;
+  text-align: center;
+  padding: 5% 10% 0 100px;
+}
+
+.springs-button{
+
+  text-align: center;
+}
+
+/* Features Section */
+
+#features {
+  position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+
+}
+
+.feature-box {
+  padding: 3.5%;
+  text-align: center;
+}
+
+.icon {
+  color: #617272;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+.product-images{
+  width: 100%;
+  width: 450px;
+  height: 250px;
+
+}
+
+#products, #machines{
+
+  background-color: #E7EBEB;
+}
+
+.contactform{
+
+  width: 50%;
+  text-align: center;
+  margin-left: 10%;
+}
+.text-center{
+
+  
+}
+
+
+
+/* Containers */
+
+
+/* Title Section */
